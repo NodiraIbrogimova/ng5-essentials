@@ -1,4 +1,4 @@
-# SPAWithAngular5
+# ANGULAR 5 ESSENYILAS. DATABINDING, COMMUNNICATION, ETC. SOON WILL POST DEFINION
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
